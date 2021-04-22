@@ -1,0 +1,15 @@
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\bin\Debug\PC-Monitoring.exe.config
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\bin\Debug\PC-Monitoring.exe
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\bin\Debug\PC-Monitoring.pdb
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\PC-Monitoring.csprojAssemblyReference.cache
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\MainWindow.g.cs
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\App.g.cs
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\PC-Monitoring_MarkupCompile.cache
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\PC-Monitoring_MarkupCompile.lref
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\MainWindow.baml
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\PC-Monitoring.g.resources
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\PC_Monitoring.Properties.Resources.resources
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\PC-Monitoring.csproj.GenerateResource.cache
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\PC-Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\PC-Monitoring.exe
+C:\Users\Buti Bence\Documents\Iskola\KompProg\PC-Monitoring\obj\Debug\PC-Monitoring.pdb
